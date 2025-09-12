@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1757696113
+icon.svg::CompressedTexture2D/CompressedTexture2D::6623539342205759004::1757431216::1757431241::1::::<><><>0<>0<>54d651686459244e32b0c500752b0560<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile/TextFile::-1::1757430645::0::1::::<><><>0<>0<><>::
+::res://scenes/::1757602586
+character.tscn::PackedScene::5144174151848671248::1757602586::0::1::::<><><>0<>0<><>::uid://de1eofwrsc0yv::::res://script/Character.cs
+node_2d.tscn::PackedScene::217365527301941970::1757602586::0::1::::<><><>0<>0<><>::
+::res://script/::1757607597
+Character.cs::CSharpScript::7493959413721733753::1757602586::0::1::::<><><>0<>0<><>::
+space.cs::CSharpScript::3223926984700660757::1757602586::0::1::::<><><>0<>0<><>::
+::res://xeno-grunt/::1757602586
+::res://xeno-grunt/xeno-attack/::1757695792
