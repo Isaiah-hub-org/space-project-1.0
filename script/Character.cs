@@ -13,7 +13,7 @@ public interface ICharacter
 public partial class Character : CharacterBody2D, ICharacter
 {
     private int speed = 500;
-    private int jump_height = 5;
+    private int jump_height = 100;
 
     public override void _Ready() { }
 

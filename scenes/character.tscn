@@ -363,6 +363,6 @@ animation = &"idle"
 autoplay = "idle"
 frame_progress = 0.417276
 
-[node name="Camera2D" type="Camera2D" parent="."]
+[node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
 position = Vector2(0, 1)
 zoom = Vector2(1.5, 1.5)
