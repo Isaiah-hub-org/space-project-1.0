@@ -30,11 +30,13 @@ public partial class Character : CharacterBody2D, ICharacter
         }
         if (Input.IsActionPressed("jump"))
         {
-            Velocity += new Vector2(0, jump_height);
+            Velocity -= new Vector2(0, jump_height);
         }
         if (!this.IsOnFloor())
         {
-            Velocity -= GetGravity();
+            Velocity += GetGravity();
         }
+
+        MoveAndSlide();
     }
 }
