@@ -13,7 +13,7 @@ public interface ICharacter
 public partial class Character : CharacterBody2D, ICharacter
 {
     private int speed = 500;
-    private int jump_height = 5;
+    private int jump_height = 100;
 
     public override void _Ready() { }
 
@@ -30,12 +30,13 @@ public partial class Character : CharacterBody2D, ICharacter
         }
         if (Input.IsActionPressed("jump"))
         {
-            Velocity += new Vector2(0, jump_height);
+            Velocity -= new Vector2(0, jump_height);
         }
         if (!this.IsOnFloor())
         {
             Velocity += GetGravity();
         }
+
         MoveAndSlide();
     }
 }
