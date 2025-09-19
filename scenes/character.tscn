@@ -347,6 +347,10 @@ animations = [{
 
 [node name="Node2D" type="Node2D"]
 
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(0, 1)
+zoom = Vector2(1.5, 1.5)
+
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
 script = ExtResource("1_dp8ca")
 
@@ -362,7 +366,3 @@ sprite_frames = SubResource("SpriteFrames_02vjr")
 animation = &"idle"
 autoplay = "idle"
 frame_progress = 0.417276
-
-[node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2(0, 1)
-zoom = Vector2(1.5, 1.5)
