@@ -34,7 +34,8 @@ public partial class Character : CharacterBody2D, ICharacter
         }
         if (!this.IsOnFloor())
         {
-            Velocity -= GetGravity();
+            Velocity += GetGravity();
         }
+        MoveAndSlide();
     }
 }
