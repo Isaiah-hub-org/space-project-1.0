@@ -356,7 +356,7 @@ shape = SubResource("CapsuleShape2D_kevgd")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D"]
 texture_filter = 1
-position = Vector2(-7.62939e-06, 0.999998)
+position = Vector2(3, 4)
 scale = Vector2(1.04167, 0.951389)
 sprite_frames = SubResource("SpriteFrames_02vjr")
 animation = &"idle"
