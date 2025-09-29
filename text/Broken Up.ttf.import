@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://7g3ywty1srmx"
-path="res://.godot/imported/Broken Up.ttf-2056bc53066a673def2443abc8fd5f71.fontdata"
+path="res://.godot/imported/Broken Up.ttf-71f978da446d8a8c67c56d0f7f92d6b8.fontdata"
 
 [deps]
 
-source_file="res://Broken Up.ttf"
-dest_files=["res://.godot/imported/Broken Up.ttf-2056bc53066a673def2443abc8fd5f71.fontdata"]
+source_file="res://text/Broken Up.ttf"
+dest_files=["res://.godot/imported/Broken Up.ttf-71f978da446d8a8c67c56d0f7f92d6b8.fontdata"]
 
 [params]
 
