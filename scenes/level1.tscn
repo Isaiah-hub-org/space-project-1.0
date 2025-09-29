@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://bf3kyxagyfplq" path="res://script/map.gd" id="1_m7ahb"]
 [ext_resource type="PackedScene" uid="uid://cg75y4sw2o5ci" path="res://scenes/tile_map.tscn" id="2_dwgg1"]
-[ext_resource type="PackedScene" uid="uid://4afw8sskcyhk" path="res://scenes/character.tscn" id="3_ru4tf"]
+[ext_resource type="PackedScene" uid="uid://1q8mufsegmr8" path="res://scenes/character.tscn" id="3_ru4tf"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_gldc4"]
 size = Vector2(16, 38)

@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3 uid="uid://cufdryrv8qbpw"]
+[gd_scene load_steps=12 format=3 uid="uid://ch5x4uk33j5gd"]
 
 [ext_resource type="Texture2D" uid="uid://dp8aptkglechx" path="res://Tilemap/blue_nebulae_1.png" id="1_06t4h"]
 [ext_resource type="FontFile" uid="uid://7g3ywty1srmx" path="res://Broken Up.ttf" id="2_7vrkn"]
@@ -13,7 +13,7 @@ func _process(delta:) -> void:
 	pass
 
 func _on_start_pressed() -> void:
-	get_tree().change_scene_to_file(\"res://scenes/map.tscn\")
+	get_tree().change_scene_to_file(\"res://scenes/level1.tscn\")
 	print(\"start pressed\")
 
 
