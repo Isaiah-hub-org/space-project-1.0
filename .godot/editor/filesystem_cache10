@@ -1,10 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1758904881
-Broken Up.ttf::FontFile/FontFile::2260173383783482979::1758816393::1758816393::1::::<><><>0<>0<>795c68e67b6da84cb0206374ff314d38<>res://.godot/imported/Broken Up.ttf-2056bc53066a673def2443abc8fd5f71.fontdata::
+::res://::1759330639
 icon.svg::CompressedTexture2D/CompressedTexture2D::6623539342205759004::1757431216::1758125785::1::::<><><>0<>0<>54d651686459244e32b0c500752b0560<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-main_menu.tscn::PackedScene::6187153926212783368::1758818181::0::1::::<><><>0<>0<><>::uid://dp8aptkglechx::::res://Tilemap/blue_nebulae_1.png<>uid://7g3ywty1srmx::::res://Broken Up.ttf
 README.md::TextFile/TextFile::-1::1757430645::0::1::::<><><>0<>0<><>::
-::res://character/::1758644583
+::res://character/::1758907770
 Attack 1.png::CompressedTexture2D/CompressedTexture2D::1726955335781503768::1758301600::1758301600::1::::<><><>0<>0<>2acf0586cb069060b6c1082ae04cff2a<>res://.godot/imported/Attack 1.png-c1f3999f8a3634b9b1e6810c2cc7c735.ctex::
 Attack 2.png::CompressedTexture2D/CompressedTexture2D::2678394376911258074::1758301600::1758301600::1::::<><><>0<>0<>103e634d9b07886628f8b05221ee324b<>res://.godot/imported/Attack 2.png-5eafadb8e7edf0027372f32b2333b98c.ctex::
 Dash.png::CompressedTexture2D/CompressedTexture2D::5884809842899524729::1758301600::1758301600::1::::<><><>0<>0<>c40826d2308732e84988c1535e7d4c2d<>res://.godot/imported/Dash.png-64c389a0353d492efe100db10ce63b32.ctex::
@@ -23,17 +21,32 @@ Run.png::CompressedTexture2D/CompressedTexture2D::2715712662043566897::175830160
 6. Dash 112 x 56.png::CompressedTexture2D/CompressedTexture2D::6241127368040582797::1711091284::1758644643::1::::<><><>0<>0<>42a1985cd837fdd323663446b5e9c6e8<>res://.godot/imported/6. Dash 112 x 56.png-69bfd642bca4549fbd7f7f85b2a5c860.ctex::
 7. Hit 48 x 48.png::CompressedTexture2D/CompressedTexture2D::8420632005826852663::1711091380::1758644643::1::::<><><>0<>0<>226a2eb061f808d636d829672581ce0f<>res://.godot/imported/7. Hit 48 x 48.png-b2af1c1f962b8d038eb55a2288d2c578.ctex::
 8. Death 76 x 48.png::CompressedTexture2D/CompressedTexture2D::6990120672417064982::1711091474::1758644643::1::::<><><>0<>0<>84463a08a170f71b59fac6005860e2ef<>res://.godot/imported/8. Death 76 x 48.png-e0823e7909a3577663f48404b9c5f5c6.ctex::
-::res://scenes/::1758817613
+::res://character/PNG sheet/::1758907966
+arm_projectile.png::CompressedTexture2D/CompressedTexture2D::9187086471614000476::1758907965::1758907966::1::::<><><>0<>0<>6d91b8aa96f8a84cffddc122be45ea30<>res://.godot/imported/arm_projectile.png-97f1024e1aa48afbb8c188264b48c0c6.ctex::
+arm_projectile_glowing.png::CompressedTexture2D/CompressedTexture2D::4721092523472177708::1758907965::1758907966::1::::<><><>0<>0<>015f1f172d245c02bbbf04de6ecb2141<>res://.godot/imported/arm_projectile_glowing.png-5e5ebe5cfa0dbad5ebe165f3944adea9.ctex::
+Character_sheet.png::CompressedTexture2D/CompressedTexture2D::6731276064224669565::1758907770::1758907770::1::::<><><>0<>0<>f27c2a24bc88b31a037cdcb5158427d9<>res://.godot/imported/Character_sheet.png-f4f22a20bc5eedc85eaa2cfc76d41e69.ctex::
+Laser_sheet.png::CompressedTexture2D/CompressedTexture2D::7857471278788277185::1758907965::1758907966::1::::<><><>0<>0<>9443eba99fa89c685b66abd0f0b98b09<>res://.godot/imported/Laser_sheet.png-f3c920d972fce43f9c62a3fcb232f2c2.ctex::
+::res://scenes/::1759249445
+boss.gd::GDScript::6458819694385999456::1759248887::0::1::::<>CharacterBody2D<><>0<>0<><>::
+boss.tscn::PackedScene::745920622147122912::1759249445::0::1::::<><><>0<>0<><>::uid://c25xeseinep30::::res://character/PNG sheet/Character_sheet.png<>uid://cyax21en5wtsa::::res://scenes/boss.gd<>uid://dj7hny8wvbiu8::::res://character/PNG sheet/Laser_sheet.png<>uid://7g3ywty1srmx::::res://Tilemap/Broken Up.ttf<>uid://c1qq4l5qk47st::::res://scenes/finite_state_machine.gd<>uid://bfgwg63ae6vo0::::res://scenes/idle.gd<>uid://0ux1uw1mm8es::::res://scenes/follow.gd<>uid://b4wshp4eyk4j3::::res://script/state.gd<>uid://0a5kvj2toreg::::res://scenes/melle_attack.gd<>uid://4afw8sskcyhk::::res://scenes/player.tscn
 character_body_2d.gd::GDScript/GDScript::3267794276526713410::1758726946::0::1::::<>CharacterBody2D<><>0<>0<><>::
-enemy.tscn::PackedScene::7422491937216931563::1758817613::0::1::::<><><>0<>0<><>::uid://bms7dharnrk2m::::res://scenes/character_body_2d.gd<>uid://dlksj21pje7nv::::res://character/enemy/1. Idle 48 x 48.png
+enemy.tscn::PackedScene/PackedScene::7422491937216931563::1758906577::0::1::::<><><>0<>0<><>::uid://bms7dharnrk2m::::res://scenes/character_body_2d.gd<>uid://dlksj21pje7nv::::res://character/enemy/1. Idle 48 x 48.png
+finite_state_machine.gd::GDScript::6631805230789997567::1759248442::0::1::::<>Node2D<><>0<>0<><>::
+follow.gd::GDScript::1797452653157728126::1759248984::0::1::::<>State<><>0<>0<><>::
+idle.gd::GDScript::2751099328496879873::1759249358::0::1::::<>State<><>0<>0<><>::
+main_menu.tscn::PackedScene::6187153926212783368::1759249365::0::1::::<><><>0<>0<><>::uid://dp8aptkglechx::::res://Tilemap/blue_nebulae_1.png<>uid://7g3ywty1srmx::::res://Tilemap/Broken Up.ttf
 map.tscn::PackedScene/PackedScene::7279338435831031210::1758301600::0::1::::<><><>0<>0<><>::res://Tilemap/pixelart_starfield.png<>res://Tilemap/1_Industrial_Tileset_1B.png<>res://Tilemap/1_Industrial_Tileset_1.png<>res://Tilemap/1_Industrial_Tileset_1C.png
+melle_attack.gd::GDScript::1756561576819162130::1759249210::0::1::::<>State<><>0<>0<><>::
 node_2d.tscn::PackedScene/PackedScene::217365527301941970::1758301600::0::1::::<><><>0<>0<><>::
-player.tscn::PackedScene::2035821099841021000::1758817613::0::1::::<><><>0<>0<><>::uid://cmsey10q7eopc::::res://script/Character.cs<>uid://yusx4uecg0oi::::res://character/Attack 1.png<>uid://befo08i8pyyqk::::res://character/Attack 2.png<>uid://cp3v7t3ik2w2t::::res://character/Dash.png<>uid://d33igypayq5l6::::res://character/Idle.png<>uid://dda2028puyhvx::::res://character/Jump.png
-::res://script/::1758304116
-Character.cs::CSharpScript/CSharpScript::5652553422637567640::1758304348::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.tscn::PackedScene::2035821099841021000::1759249365::0::1::::<><><>0<>0<><>::uid://cmsey10q7eopc::::res://script/Character.cs<>uid://yusx4uecg0oi::::res://character/Attack 1.png<>uid://befo08i8pyyqk::::res://character/Attack 2.png<>uid://cp3v7t3ik2w2t::::res://character/Dash.png<>uid://d33igypayq5l6::::res://character/Idle.png<>uid://dda2028puyhvx::::res://character/Jump.png
+test.gd::GDScript/GDScript::5922891789919324160::1759162227::0::1::::<>Node2D<><>0<>0<><>::
+::res://script/::1759245106
+Character.cs::CSharpScript/CSharpScript::5652553422637567640::1758906061::0::1::::<>CharacterBody2D<><>0<>0<><>::
 space.cs::CSharpScript/CSharpScript::-1::1758209549::0::1::::<><><>0<>0<><>::
-::res://Tilemap/::1758815534
+state.gd::GDScript::4468419699076306770::1759245106::0::1::::State<>Node2D<><>0<>0<><>::
+::res://Tilemap/::1758910081
 blue_nebulae_1.png::CompressedTexture2D/CompressedTexture2D::8280246972121503901::1758815530::1758815534::1::::<><><>0<>0<>ae9bfbc7c72666a36461c1fdb80c1a18<>res://.godot/imported/blue_nebulae_1.png-a2bd38ddcdf1409e8b533ad847a34b62.ctex::
+Broken Up.ttf::FontFile/FontFile::2260173383783482979::1758816393::1758910081::1::::<><><>0<>0<>b4c342f9c992f13ddd616ae60b567a57<>res://.godot/imported/Broken Up.ttf-3680983731c6bc7eb31d86211540dc1e.fontdata::
 pixelart_starfield.png::CompressedTexture2D/CompressedTexture2D::2040427740861672546::1758209549::1758213079::1::::<><><>0<>0<>f8444c1f68cf14a0f7dcd16ad22574e1<>res://.godot/imported/pixelart_starfield.png-4559ed1de4c0f5eee8ccf0dd620e1642.ctex::
 pixelart_starfield_corona.png::CompressedTexture2D/CompressedTexture2D::566716380379958006::1758209549::1758213079::1::::<><><>0<>0<>30638d3987b175977bbc83f86f6fd354<>res://.godot/imported/pixelart_starfield_corona.png-9fa2754f234365e9ad530cb32deaea89.ctex::
 pixelart_starfield_diagonal_diffraction_spikes.png::CompressedTexture2D/CompressedTexture2D::2274939126950963287::1758209549::1758213079::1::::<><><>0<>0<>47e264aaae0b2b444626da7756c78f67<>res://.godot/imported/pixelart_starfield_diagonal_diffraction_spikes.png-09c64c0f28192e267ec3807113c09996.ctex::

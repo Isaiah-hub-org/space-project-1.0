@@ -1,9 +1,6 @@
-[gd_scene load_steps=10 format=3 uid="uid://dbyfv1o0hu4w1"]
+[gd_scene load_steps=7 format=3 uid="uid://dbyfv1o0hu4w1"]
 
-[ext_resource type="Texture2D" path="res://Tilemap/pixelart_starfield.png" id="1_4xfga"]
-[ext_resource type="Texture2D" path="res://Tilemap/1_Industrial_Tileset_1B.png" id="2_2lpho"]
-[ext_resource type="Texture2D" path="res://Tilemap/1_Industrial_Tileset_1.png" id="3_nakos"]
-[ext_resource type="Texture2D" path="res://Tilemap/1_Industrial_Tileset_1C.png" id="4_jh32y"]
+[ext_resource type="Texture2D" uid="uid://4cnsucyfpyyk" path="res://Tilemap/pixelart_starfield.png" id="1_4xfga"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_paxxb"]
 texture = ExtResource("1_4xfga")
@@ -409,7 +406,6 @@ texture = ExtResource("1_4xfga")
 19:19/0 = 0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_mlgqr"]
-texture = ExtResource("2_2lpho")
 0:0/0 = 0
 1:0/0 = 0
 2:0/0 = 0
@@ -508,7 +504,6 @@ texture = ExtResource("2_2lpho")
 11:7/0 = 0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_wslke"]
-texture = ExtResource("3_nakos")
 0:0/0 = 0
 0:0/0/physics_layer_0/polygon_0/points = PackedVector2Array(-8, -8, 8, -8, 8, 8, -8, 8)
 1:0/0 = 0
@@ -623,7 +618,6 @@ texture = ExtResource("3_nakos")
 11:7/0 = 0
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_gw3fx"]
-texture = ExtResource("4_jh32y")
 0:0/0 = 0
 1:0/0 = 0
 2:0/0 = 0
