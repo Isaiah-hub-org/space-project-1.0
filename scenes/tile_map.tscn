@@ -1,4 +1,4 @@
-[gd_scene load_steps=10 format=3 uid="uid://cg75y4sw2o5ci"]
+[gd_scene load_steps=10 format=3 uid="uid://c1xcd04senfdl"]
 
 [ext_resource type="Texture2D" uid="uid://4cnsucyfpyyk" path="res://Tilemap/pixelart_starfield.png" id="1_1n30v"]
 [ext_resource type="Texture2D" uid="uid://d0bnr04tjv1s7" path="res://Tilemap/1_Industrial_Tileset_1.png" id="2_35kre"]
