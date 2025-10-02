@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="space ship project"
-run/main_scene="uid://cufdryrv8qbpw"
+run/main_scene="uid://ch5x4uk33j5gd"
 config/features=PackedStringArray("4.4", "C#", "GL Compatibility")
 config/icon="res://icon.svg"
 

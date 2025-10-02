@@ -38,7 +38,6 @@ public partial class Character : CharacterBody2D, ICharacter
 		{
 			Velocity += GetGravity();
 		}
-
 		MoveAndSlide();
 	}
 }
