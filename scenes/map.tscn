@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=3 uid="uid://c4mg35cedyrls"]
+[gd_scene load_steps=6 format=3 uid="uid://duvc2j8sjbmdp"]
 
 [ext_resource type="Texture2D" uid="uid://4cnsucyfpyyk" path="res://Tilemap/pixelart_starfield.png" id="1_4xfga"]
 [ext_resource type="PackedScene" uid="uid://4afw8sskcyhk" path="res://scenes/character.tscn" id="3_gldc4"]
