@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1759422427
+::res://::1759422563
 icon.svg::CompressedTexture2D/CompressedTexture2D::6623539342205759004::1757517171::1758123619::1::::<><><>0<>0<>54d651686459244e32b0c500752b0560<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile/TextFile::-1::1757516709::0::1::::<><><>0<>0<><>::
 ::res://character/::1759417217
@@ -21,25 +21,25 @@ Run.png::CompressedTexture2D/CompressedTexture2D::2715712662043566897::175830162
 6. Dash 112 x 56.png::CompressedTexture2D/CompressedTexture2D::6241127368040582797::1758906750::1758906810::1::::<><><>0<>0<>42a1985cd837fdd323663446b5e9c6e8<>res://.godot/imported/6. Dash 112 x 56.png-69bfd642bca4549fbd7f7f85b2a5c860.ctex::
 7. Hit 48 x 48.png::CompressedTexture2D/CompressedTexture2D::8420632005826852663::1758906750::1758906810::1::::<><><>0<>0<>226a2eb061f808d636d829672581ce0f<>res://.godot/imported/7. Hit 48 x 48.png-b2af1c1f962b8d038eb55a2288d2c578.ctex::
 8. Death 76 x 48.png::CompressedTexture2D/CompressedTexture2D::6990120672417064982::1758906750::1758906810::1::::<><><>0<>0<>84463a08a170f71b59fac6005860e2ef<>res://.godot/imported/8. Death 76 x 48.png-e0823e7909a3577663f48404b9c5f5c6.ctex::
-::res://scenes/::1759422416
-character.tscn::PackedScene::1859966127956408707::1759422416::0::1::::<><><>0<>0<><>::uid://cmsey10q7eopc::::res://script/Character.cs<>uid://yusx4uecg0oi::::res://character/Attack 1.png<>uid://befo08i8pyyqk::::res://character/Attack 2.png<>uid://cp3v7t3ik2w2t::::res://character/Dash.png<>uid://d33igypayq5l6::::res://character/Idle.png
+::res://scenes/::1759422553
+character.tscn::PackedScene::1859966127956408707::1759422553::0::1::::<><><>0<>0<><>::uid://cmsey10q7eopc::::res://script/Character.cs<>uid://yusx4uecg0oi::::res://character/Attack 1.png<>uid://befo08i8pyyqk::::res://character/Attack 2.png<>uid://cp3v7t3ik2w2t::::res://character/Dash.png<>uid://d33igypayq5l6::::res://character/Idle.png
 character_body_2d.gd::GDScript/GDScript::-1::1758906750::0::1::::<>CharacterBody2D<><>0<>0<><>::
-level1.tscn::PackedScene::5378764297073438495::1759422416::0::1::::<><><>0<>0<><>::uid://civrpyhm7cppv::::res://scenes/level1.tscn
-main_menu.tscn::PackedScene::3055933601937014933::1759422416::0::1::::<><><>0<>0<><>::uid://dp8aptkglechx::::res://Tilemap/blue_nebulae_1.png<>uid://7g3ywty1srmx::::res://text/Broken Up.ttf
-map.tscn::PackedScene::8606561031614786237::1759422416::0::1::::<><><>0<>0<><>::uid://4cnsucyfpyyk::::res://Tilemap/pixelart_starfield.png<>uid://4afw8sskcyhk::::res://scenes/character.tscn<>uid://d0bnr04tjv1s7::::res://Tilemap/1_Industrial_Tileset_1.png
-node_2d.tscn::PackedScene::8146292451857483673::1759422416::0::1::::<><><>0<>0<><>::uid://1q8mufsegmr8::::res://scenes/character.tscn<>uid://cg75y4sw2o5ci::::res://scenes/tile_map.tscn
-player.tscn::PackedScene::4016148383897506306::1759422416::0::1::::<><><>0<>0<><>::uid://cmsey10q7eopc::::res://script/Character.cs<>uid://yusx4uecg0oi::::res://character/Attack 1.png<>uid://befo08i8pyyqk::::res://character/Attack 2.png<>uid://cp3v7t3ik2w2t::::res://character/Dash.png<>uid://d33igypayq5l6::::res://character/Idle.png<>uid://dda2028puyhvx::::res://character/Jump.png
-tile_map.tscn::PackedScene::5261900438200899748::1759422416::0::1::::<><><>0<>0<><>::uid://4cnsucyfpyyk::::res://Tilemap/pixelart_starfield.png<>uid://d0bnr04tjv1s7::::res://Tilemap/1_Industrial_Tileset_1.png<>uid://drrkhpi21mh3q::::res://Tilemap/MAP FOR FINAL BOSSS.png<>uid://b3c0ke7t2p52i::::res://Tilemap/The Sidescroller's Dungeon Tiles 32x32.png
-::res://script/::1759422416
-Character.cs::CSharpScript::5652553422637567640::1759422416::0::1::::<>CharacterBody2D<><>0<>0<><>::
-map.gd::GDScript::2795818716320271018::1759422416::0::1::::<>Node2D<><>0<>0<><>::
-::res://text/::1759422416
-Broken Up.ttf::FontFile/FontFile::2260173383783482979::1759422416::1759422416::1::::<><><>0<>0<>ca78dab86de5b3992d2424a7bb0d720d<>res://.godot/imported/Broken Up.ttf-71f978da446d8a8c67c56d0f7f92d6b8.fontdata::
-::res://Tilemap/::1759422416
-1_Industrial_Tileset_1.png::CompressedTexture2D/CompressedTexture2D::8916868557945757636::1759422416::1759422416::1::::<><><>0<>0<>e710b13f1a40e26b32636cc10c536afa<>res://.godot/imported/1_Industrial_Tileset_1.png-77736ba75cfd0da123e95447547d58c4.ctex::
+level1.tscn::PackedScene::5378764297073438495::1759422553::0::1::::<><><>0<>0<><>::uid://civrpyhm7cppv::::res://scenes/level1.tscn
+main_menu.tscn::PackedScene::3055933601937014933::1759422553::0::1::::<><><>0<>0<><>::uid://dp8aptkglechx::::res://Tilemap/blue_nebulae_1.png<>uid://7g3ywty1srmx::::res://text/Broken Up.ttf
+map.tscn::PackedScene::8606561031614786237::1759422553::0::1::::<><><>0<>0<><>::uid://4cnsucyfpyyk::::res://Tilemap/pixelart_starfield.png<>uid://4afw8sskcyhk::::res://scenes/character.tscn<>uid://d0bnr04tjv1s7::::res://Tilemap/1_Industrial_Tileset_1.png
+node_2d.tscn::PackedScene::8146292451857483673::1759422553::0::1::::<><><>0<>0<><>::uid://1q8mufsegmr8::::res://scenes/character.tscn<>uid://cg75y4sw2o5ci::::res://scenes/tile_map.tscn
+player.tscn::PackedScene::4016148383897506306::1759422553::0::1::::<><><>0<>0<><>::uid://cmsey10q7eopc::::res://script/Character.cs<>uid://yusx4uecg0oi::::res://character/Attack 1.png<>uid://befo08i8pyyqk::::res://character/Attack 2.png<>uid://cp3v7t3ik2w2t::::res://character/Dash.png<>uid://d33igypayq5l6::::res://character/Idle.png<>uid://dda2028puyhvx::::res://character/Jump.png
+tile_map.tscn::PackedScene::5261900438200899748::1759422553::0::1::::<><><>0<>0<><>::uid://4cnsucyfpyyk::::res://Tilemap/pixelart_starfield.png<>uid://d0bnr04tjv1s7::::res://Tilemap/1_Industrial_Tileset_1.png<>uid://drrkhpi21mh3q::::res://Tilemap/MAP FOR FINAL BOSSS.png<>uid://b3c0ke7t2p52i::::res://Tilemap/The Sidescroller's Dungeon Tiles 32x32.png
+::res://script/::1759422553
+Character.cs::CSharpScript::5652553422637567640::1759422553::0::1::::<>CharacterBody2D<><>0<>0<><>::
+map.gd::GDScript::2795818716320271018::1759422553::0::1::::<>Node2D<><>0<>0<><>::
+::res://text/::1759422553
+Broken Up.ttf::FontFile/FontFile::2260173383783482979::1759422553::1759422553::1::::<><><>0<>0<>ca78dab86de5b3992d2424a7bb0d720d<>res://.godot/imported/Broken Up.ttf-71f978da446d8a8c67c56d0f7f92d6b8.fontdata::
+::res://Tilemap/::1759422553
+1_Industrial_Tileset_1.png::CompressedTexture2D/CompressedTexture2D::8916868557945757636::1759422553::1759422553::1::::<><><>0<>0<>e710b13f1a40e26b32636cc10c536afa<>res://.godot/imported/1_Industrial_Tileset_1.png-77736ba75cfd0da123e95447547d58c4.ctex::
 blue_nebulae_1.png::CompressedTexture2D/CompressedTexture2D::8280246972121503901::1758906750::1758906813::1::::<><><>0<>0<>ae9bfbc7c72666a36461c1fdb80c1a18<>res://.godot/imported/blue_nebulae_1.png-a2bd38ddcdf1409e8b533ad847a34b62.ctex::
-MAP FOR FINAL BOSSS.png::CompressedTexture2D/CompressedTexture2D::8388187286700538180::1759422416::1759422416::1::::<><><>0<>0<>380000599c1f213a3e5461c6086eca86<>res://.godot/imported/MAP FOR FINAL BOSSS.png-b31e96013a4742346bef9c828903a0e8.ctex::
+MAP FOR FINAL BOSSS.png::CompressedTexture2D/CompressedTexture2D::8388187286700538180::1759422553::1759422553::1::::<><><>0<>0<>380000599c1f213a3e5461c6086eca86<>res://.godot/imported/MAP FOR FINAL BOSSS.png-b31e96013a4742346bef9c828903a0e8.ctex::
 pixelart_starfield.png::CompressedTexture2D/CompressedTexture2D::2040427740861672546::1758124052::1758124099::1::::<><><>0<>0<>f8444c1f68cf14a0f7dcd16ad22574e1<>res://.godot/imported/pixelart_starfield.png-4559ed1de4c0f5eee8ccf0dd620e1642.ctex::
 pixelart_starfield_corona.png::CompressedTexture2D/CompressedTexture2D::566716380379958006::1758124052::1758124099::1::::<><><>0<>0<>30638d3987b175977bbc83f86f6fd354<>res://.godot/imported/pixelart_starfield_corona.png-9fa2754f234365e9ad530cb32deaea89.ctex::
 pixelart_starfield_diagonal_diffraction_spikes.png::CompressedTexture2D/CompressedTexture2D::2274939126950963287::1758124052::1758124099::1::::<><><>0<>0<>47e264aaae0b2b444626da7756c78f67<>res://.godot/imported/pixelart_starfield_diagonal_diffraction_spikes.png-09c64c0f28192e267ec3807113c09996.ctex::
-The Sidescroller's Dungeon Tiles 32x32.png::CompressedTexture2D/CompressedTexture2D::4357373104251459102::1759422416::1759422416::1::::<><><>0<>0<>7bc34a62c2dd30136a6fc2e9e5ee430d<>res://.godot/imported/The Sidescroller's Dungeon Tiles 32x32.png-38ef8738cd36bf79729782143e423a76.ctex::
+The Sidescroller's Dungeon Tiles 32x32.png::CompressedTexture2D/CompressedTexture2D::4357373104251459102::1759422553::1759422553::1::::<><><>0<>0<>7bc34a62c2dd30136a6fc2e9e5ee430d<>res://.godot/imported/The Sidescroller's Dungeon Tiles 32x32.png-38ef8738cd36bf79729782143e423a76.ctex::
