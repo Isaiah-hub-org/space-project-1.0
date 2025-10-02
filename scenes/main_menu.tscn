@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3 uid="uid://ch5x4uk33j5gd"]
+[gd_scene load_steps=12 format=3 uid="uid://bjsk1rvaqdixp"]
 
 [ext_resource type="Texture2D" uid="uid://dp8aptkglechx" path="res://Tilemap/blue_nebulae_1.png" id="1_ekxnf"]
 [ext_resource type="FontFile" uid="uid://7g3ywty1srmx" path="res://text/Broken Up.ttf" id="2_bqqt6"]
