@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://dad236ln0vtx2"]
+
+[ext_resource type="Script" uid="uid://3vlldimb2ed1" path="res://KillZone.cs" id="1_gf172"]
+
+[sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_gf172"]
+
+[node name="Area2D" type="Area2D"]
+script = ExtResource("1_gf172")
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("WorldBoundaryShape2D_gf172")
+
+[connection signal="body_entered" from="." to="." method="OnBodyEntered"]
+[connection signal="timeout" from="Timer" to="." method="Timer"]

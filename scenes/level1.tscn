@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://civrpyhm7cppv"]
+
+[ext_resource type="PackedScene" uid="uid://civrpyhm7cppv" path="res://scenes/level1.tscn" id="1_g2h75"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Node2D" parent="." instance=ExtResource("1_g2h75")]
