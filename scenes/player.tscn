@@ -383,10 +383,6 @@ animations = [{
 
 [node name="Node2D" type="Node2D"]
 
-[node name="Camera2D" type="Camera2D" parent="."]
-position = Vector2(0, 1)
-zoom = Vector2(1.5, 1.5)
-
 [node name="CharacterBody2D" type="CharacterBody2D" parent="."]
 script = ExtResource("1_tuyoq")
 
@@ -402,6 +398,13 @@ sprite_frames = SubResource("SpriteFrames_02vjr")
 animation = &"jump"
 autoplay = "idle"
 frame_progress = 0.518428
+
+[node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
+position = Vector2(0, 1)
+zoom = Vector2(4, 4)
+limit_bottom = 126
+limit_smoothed = true
+position_smoothing_enabled = true
 
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 collision_layer = 3

@@ -15,10 +15,6 @@ run/main_scene="uid://de1w68akc28t0"
 config/features=PackedStringArray("4.4", "C#", "GL Compatibility")
 config/icon="res://icon.svg"
 
-[autoload]
-
-TransitionScreen="*res://scenes/transition_screen.tscn"
-
 [dotnet]
 
 project/assembly_name="New Game Project"
